@@ -1,0 +1,20 @@
+.container{
+    padding: 5px;
+    text-align: center;
+    background-color: #a14438;
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 1000px;
+    margin-top: 250px;
+}
+.containertwo{
+    text-align: center;
+    background-color: #ddb681;
+    border: 1px solid black;
+    border-radius: 60px;
+    padding: 10px;
+}
+body{
+    background-image: url('https://krui.fm/wordpress/wp-content/uploads/2014/10/gsy-wallpaper.png');
+    background-size: cover;
+}
